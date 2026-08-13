@@ -2,7 +2,7 @@ fx_version "cerulean"
 game "gta5"
 author "Pickle Mods#0001"
 description "A multi-framework farming resource with synced growth."
-version "v1.0.7"
+version "v1.0.8"
 
 shared_scripts {
 	"@ox_lib/init.lua", -- COMMENT THIS OUT IF NOT USING OX_LIB.
